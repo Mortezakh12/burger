@@ -18,7 +18,7 @@ function App() {
 ])
   return (
     <>
-    <div className="flex justify-center items-center w-full h-screen bg-red-700">
+    <div className="flex justify-center items-center w-full h-screen bg-red-600">
       <MainMenu orderList={orderList} setOrderList={setOrderList} />
     </div>
     </>
